@@ -22,4 +22,5 @@ npm-debug.log
 .eslintrc
 .nyc_output
 /test/npm_cache*
-/node_modules/.cache
+/node_modules
+/package-lock.json
